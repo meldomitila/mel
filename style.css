@@ -19,3 +19,10 @@ header{
     border-bottom: 3-px solid rgb(183, 206, 250);
     padding: 20px;
 }
+h1{
+    font-size: 35px;
+}
+.chamada-texto{
+    margin-right: 5%;
+    
+}
